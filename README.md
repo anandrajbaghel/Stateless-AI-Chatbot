@@ -44,7 +44,7 @@ stateless-ai-chatbot/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repo URL]
+    git clone https://github.com/anandrajbaghel/Stateless-AI-Chatbot
     cd stateless-ai-chatbot
     ```
 2.  **Install dependencies:**
@@ -68,6 +68,10 @@ stateless-ai-chatbot/
 5.  **Start the frontend:**
     ```bash
     npm start
+    ```
+6.  **Else start both simultaneously**
+    ```bash
+    npm run dev
     ```
 <br>
 
