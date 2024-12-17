@@ -15,7 +15,7 @@ stateless-ai-chatbot/
     └── styles.css
     └── components/
         ├── ChatInput.js
-        ├──ChatMessage.js
+        ├── ChatMessage.js
         ├── ChatWindow.js
         ├── Sidebar.js
         └── UI/
