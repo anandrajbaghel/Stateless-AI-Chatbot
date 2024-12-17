@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import ChatInput from './components/ChatInput.js';
-import ChatWindow from './components/ChatWindow.js';
-import Sidebar from './components/Sidebar.js';
+import ChatInput from './library/medAi/components/ChatInput.js';
+import ChatWindow from './library/medAi/components/ChatWindow.js';
+import Sidebar from './library/medAi/components/Sidebar.js';
 
 const AppContainer = styled.div`
   display: flex;
@@ -73,7 +73,7 @@ const App = () => {
             <MainContent>
                 <ChatWindow messages={messages} />
                 <ChatInput onSendMessage={handleSendMessage} />
-                <Disclaimer>Disclaimer: This application is for informational purposes only and does not provide medical advice. Always consult a qualified healthcare professional for medical diagnosis and treatment.</Disclaimer>
+                <Disclaimer> Disclaimer: This application is for educational purpose only. </Disclaimer>
             </MainContent>
         </AppContainer>
   );
