@@ -1,6 +1,8 @@
 # Stateless-AI-Chatbot
 A basic stateless ai chatbot using Google API.
 
+Get your API Key from 👉 https://aistudio.google.com/apikey
+
 ## Directory Structure
 
 ```
