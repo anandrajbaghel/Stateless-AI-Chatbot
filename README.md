@@ -8,7 +8,7 @@ stateless-ai-chatbot/
 ├── .env
 ├── package.json
 ├── server/
-│ └── server.js
+│   └── server.js
 └── src/
     └── App.js
     └── index.js
