@@ -4,6 +4,9 @@ A basic stateless AI chatbot leveraging the power of Google's AI API.
 
 > **Get your API Key:** Before you start, you'll need an API key from [Google AI Studio](https://aistudio.google.com/apikey).
 
+<img width="948" alt="{C9B26138-BC13-433D-989C-04F556015A13}" src="https://github.com/user-attachments/assets/770f3120-4fff-421e-af0b-52b9ef0fd123" />
+
+
 <br>
 
 ## 🗂️ Project Structure
