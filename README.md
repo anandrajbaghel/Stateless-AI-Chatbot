@@ -2,7 +2,7 @@
 A basic stateless ai chatbot using Google API.
 
 ## Directory Structure
-stateless-ai-chatbot/
+stateless-ai-chatbot/<br/>
 ├── .env
 ├── package.json
 ├── server/
